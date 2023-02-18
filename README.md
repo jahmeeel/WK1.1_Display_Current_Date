@@ -1,4 +1,4 @@
-# Week_1-4_Display_Current_Date
+# Week 1-4: Display Current Date Exercise
 
 ## Displaying the Current Date and Appending Suffixes to a Days Variable
 
